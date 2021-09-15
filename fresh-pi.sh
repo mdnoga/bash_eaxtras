@@ -8,6 +8,6 @@ echo "Getting clean PI"
 
 git stash
 git checkout main
-git pull
+git pull origin main
 
 echo 'Done :-)'
