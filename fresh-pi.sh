@@ -7,7 +7,7 @@
 echo "Getting clean PI"
 
 git stash
-git checkout master
+git checkout main
 git pull
 
 echo 'Done :-)'
