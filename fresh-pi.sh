@@ -4,7 +4,7 @@
 # email: micahel@noga.us
 # license: MIT
 
-echo "Getting clean PI"
+echo "Getting clean main"
 
 git stash
 git checkout main
